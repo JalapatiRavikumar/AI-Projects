@@ -2,7 +2,7 @@
 
 A premium, interactive developer portfolio showcasing skills, projects, experience, and an interactive Guestbook comments system.
 
-🔗 **Live Demo:** https://jalapatiravikumar-portfolio.surge.sh
+🔗 **Live Demo:** https://developer-portfolio-v5.vercel.app/
 
 ## 🛠️ Tech Stack & Features
 - **Frontend:** React.js (Vite), Tailwind CSS, Framer Motion, AOS (Animate on Scroll), Lucide Icons
