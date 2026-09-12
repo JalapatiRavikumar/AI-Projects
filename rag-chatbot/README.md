@@ -278,7 +278,7 @@ http://localhost:3000
 **Sujal Papalkar**
 Full Stack Developer | AI Systems Enthusiast
 
-🔗 GitHub: https://github.com/sujalpapalkar
+🔗 GitHub: https://github.com/JalapatiRavikumar
 
 ---
 
